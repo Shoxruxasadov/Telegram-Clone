@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "Shoxrux Asadov",
+      "phone": "+998914157833",
+      "username": "@Shokhdev",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGlU-X85FW9Qg/profile-displayphoto-shrink_400_400/0/1684404053411?e=1691020800&v=beta&t=zGWNgbZ6y-vAcf46AWg7WIftYThXHbwtRG1PKniIpsw"
+    },
+    {
+      "id": 2,
+      "user": "Asadbek Asadov",
+      "phone": "+998904150210",
+      "username": "@Uzassa",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3odETGbV3NomRqZxLpyEg4OFsLFgExbnWQ&usqp=CAU"
+    },
+    {
+      "user": "Shaxzod",
+      "image": "",
+      "id": 3
+    },
+    {
+      "user": "ha",
+      "image": "",
+      "id": 4
+    }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "userId": 1,
+      "channel": "Kun.uz",
+      "image": "https://play-lh.googleusercontent.com/2WLJMo0Kk_sNfE3HguZVBxCU9ar22kbvRtiP5UFnzP54YLmsWjs9bN1pnXa8sXTZIbY"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "channel": "Yes Uzb",
+      "image": "https://yt3.googleusercontent.com/YYfP3ANu0veSTG7vJlzRJbMDNsE9RZkVTtjund1rxJ2O_R8a_XRaRKxVAcOGcSkxpEzyjdaEWd0=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "channel": "A4",
+      "image": "https://yt3.googleusercontent.com/ytc/AGIKgqOBwIec5PKubsT0ZOsHILee8qUskfHsj4Rfz4GAOw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "channel": "Кобяков",
+      "image": "https://yt3.googleusercontent.com/DQ98iagwWR29Yzbtpn2-jyjtjhit8GCpR1cr3NFo39IU5BzMOmde6xoOjpI1vvuw06AOCzmLEw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "channel": "RealSoft Channel",
+      "image": "",
+      "userId": "3",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "channelId": 1,
+      "content": "Post 1",
+      "like": 0
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "content": "Comment 1"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "userId": 1,
+      "group": "G30 Shift Academy",
+      "image": "data:image/png;base64,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"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "group": "TATU M310-22",
+      "image": "https://static.tuit.uz/uploads/1/W73eM8T-hn5cLRoa_rQWKshn3eUutXvm.png"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "group": "Virtus >",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT386Gy0-GxoCUx2pMTYh293PgzJpIEEeAPd3yNxTtL10YcchRPoaReIseM-lYc2IzLU8&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "group": "The Donni Group",
+      "image": "https://yt3.googleusercontent.com/9N4bBHyS2mudJk4vZst43VHHP22uHk9o3B8yf2gDxhif5YX5c1bRKNy6Z2LEsn5raR0ADRv_ESo=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    {
+      "group": "RealSoft",
+      "image": "",
+      "userId": "3",
+      "id": 5
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "groupId": 1,
+      "content": "Content 1",
+      "like": 0
+    }
+  ]
+}
